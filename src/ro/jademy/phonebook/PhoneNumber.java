@@ -1,3 +1,5 @@
+package ro.jademy.phonebook;
+
 public class PhoneNumber {
     private String number;
     private String operator;

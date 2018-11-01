@@ -1,4 +1,5 @@
-import java.util.Collection;
+package ro.jademy.phonebook;
+
 import java.util.HashSet;
 import java.util.Set;
 

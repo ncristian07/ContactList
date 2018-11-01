@@ -1,5 +1,5 @@
-import java.util.ArrayList;
-import java.util.Collection;
+package ro.jademy.phonebook;
+
 import java.util.Scanner;
 
 public class ContactList {
